@@ -1,0 +1,25 @@
+HW Template
+home page:
+<h1>My final project topic is "Eritrean Community Services For All"<h1>
+Three containers in a row:300px X 300px for each margin-right 20px
+Inner page:
+Four containers in a row:220px X 220px for each margin-right 20px 
+main: 
+     width:580px
+     float:left;
+     height:600px;
+     background:
+nav:
+home
+about
+services
+products
+contact
+
+
+aside
+     width:340px;
+     float:right;
+     height:400px;
+     background:salmon;
+    
